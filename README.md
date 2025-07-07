@@ -1,6 +1,6 @@
 # Polar Codes – CT216 Project Report (Group 31)
 
-Welcome to the documentation repository for our academic project on **Polar Codes**, submitted as part of the *CT216 - Introduction to Communication Systems* course at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT) on Polar Codes.
+Welcome to the documentation repository for our academic project on **Polar Codes**, submitted as part of the *CT216 - Introduction to Communication Systems* course at Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT).
 
 ---
 
