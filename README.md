@@ -95,4 +95,4 @@ The report references foundational works by:
 - Shannon’s Channel Capacity Theorem
 - Modern optimizations from IEEE papers and arXiv preprints
 
-A full list of citations is included in the original PDF report.
+A full list of citations is included in the original PDF report
